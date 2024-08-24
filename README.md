@@ -12,7 +12,7 @@
   
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/mtran2972/azure-net-protocols)
-  - [Installing Active Directory in Azure](https://github.com/mtran2972/LABURL)
+  - [Installing Active Directory in Azure](https://github.com/mtran2972/AD-Install)
   - [Configuring Active Directory in Azure](https://github.com/mtran2972/LABURL)
   - [Understanding DNS in Azure](https://github.com/mtran2972/LABURL)
   - [Understanding File Permissions in Azure](https://github.com/mtran2972/LABURL)
