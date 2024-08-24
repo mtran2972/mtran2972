@@ -11,7 +11,7 @@
 
   
 - <b>Microsoft Azure</b>
-  - [Inspecting Network Traffic in Azure]([https://github.com/mtran2972/LABURL](https://github.com/mtran2972/azure-net-protocols))
+  - [Inspecting Network Traffic in Azure](https://github.com/mtran2972/azure-net-protocols)
   - [Installing Active Directory in Azure](https://github.com/mtran2972/LABURL)
   - [Configuring Active Directory in Azure](https://github.com/mtran2972/LABURL)
   - [Understanding DNS in Azure](https://github.com/mtran2972/LABURL)
